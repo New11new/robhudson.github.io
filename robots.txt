@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://rob.cogit8.org/sitemap.xml 
+Sitemap: http://robhudson.github.io/sitemap.xml 

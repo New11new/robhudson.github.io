@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Rob's Cogitations]]></title>
-  <link href="http://rob.cogit8.org/atom.xml" rel="self"/>
-  <link href="http://rob.cogit8.org/"/>
-  <updated>2014-10-31T11:15:04-07:00</updated>
-  <id>http://rob.cogit8.org/</id>
+  <link href="http://robhudson.github.io/atom.xml" rel="self"/>
+  <link href="http://robhudson.github.io/"/>
+  <updated>2014-11-24T20:31:07-08:00</updated>
+  <id>http://robhudson.github.io/</id>
   <author>
     <name><![CDATA[Rob Hudson]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Testing My New Jekyll Based Blog]]></title>
-    <link href="http://rob.cogit8.org/blog/2014/10/testing-my-new-jekyll-based-blog/"/>
+    <link href="http://robhudson.github.io/blog/2014/10/testing-my-new-jekyll-based-blog/"/>
     <updated>2014-10-31T10:57:42-07:00</updated>
-    <id>http://rob.cogit8.org/blog/2014/10/testing-my-new-jekyll-based-blog</id>
+    <id>http://robhudson.github.io/blog/2014/10/testing-my-new-jekyll-based-blog</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
